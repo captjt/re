@@ -1,0 +1,8 @@
+# Development
+*.sublime-project
+*.sublime*
+.tmp
+
+# MacOSX Files
+**/.DS_Store/**/*
+**/.DS_Store
